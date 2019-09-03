@@ -2,7 +2,7 @@ import React from 'react';
 
 import Dashboard from './dashboard/Dashboard';
 import Header from './header/Header'
-import Sidebar from './sidbar/Sidebar'
+import Sidebar from './sidebar/Sidebar'
 
 import './App.css';
 

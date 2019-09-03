@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="7px" viewBox="0 0 11 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Select Dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard" transform="translate(-1399.000000, -124.000000)" fill="#B8C5D3">
+            <g id="Range" transform="translate(1262.000000, 117.000000)">
+                <path d="M145.265749,4.9539377 L146.013837,12.0500041 C146.042788,12.3246246 145.843634,12.5707182 145.569013,12.5996695 C145.534162,12.6033437 145.49902,12.6033436 145.464168,12.5996691 L138.368347,11.8515557 C138.093727,11.8226024 137.894574,11.5765074 137.923527,11.3018871 C137.935532,11.1880222 137.986252,11.0817266 138.067212,11.0007643 L144.414945,4.65281135 C144.610204,4.45754583 144.926787,4.45754036 145.122052,4.65279913 C145.20302,4.7337637 145.253745,4.84006556 145.265749,4.9539377 Z" id="Select-Dropdown" transform="translate(142.452049, 9.037798) rotate(45.000000) translate(-142.452049, -9.037798) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

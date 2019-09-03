@@ -1,0 +1,43 @@
+.Sidebar {
+	margin: 0;
+	padding: 0;
+	width: 250px;
+	height: 100%;
+	background-color: rgb(29, 34, 77);
+	position: fixed
+}
+
+.MenuItem {
+	padding-top: 20px;
+}
+
+.Item {
+	width: 200px;
+	height: 30px;
+	margin: 5px;
+	display: inline-flex;
+	padding-top: 15px;
+	text-decoration: none;
+	color: rgb(114, 114, 219);
+}
+
+.ItemActive {
+	width: 200px;
+	height: 30px;
+	margin: 5px;
+	display: inline-flex;
+	padding-top: 15px;
+	text-decoration: none;
+	background-color: rgb(26, 26, 172);
+	border-radius: 5px;
+	color: white;
+}
+
+.MenuName {
+	padding-left: 25px;
+	font-size: 15px;
+}
+
+.MenuIcon {
+	padding-left: 15px;
+}

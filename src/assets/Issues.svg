@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Issues</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard" transform="translate(-54.000000, -177.000000)">
+            <g id="Issues" transform="translate(55.000000, 178.000000)">
+                <polygon id="Path-2" stroke="#7685B6" stroke-width="1.3" fill-rule="nonzero" points="0.614927996 0.483060151 0.614927996 15.4016588 14.879669 15.4016588 14.879669 4.66394761 10.6987815 0.483060151"></polygon>
+                <path d="M10.6994975,5.1838805 L6.56738193,10.11811 L4.89704261,8.12386328 C4.69178107,7.87903217 4.35926779,7.87888863 4.15400625,8.12400681 C3.94866458,8.36922069 3.94866458,8.76634755 4.15400625,9.01146573 L6.19592385,11.4494897 C6.29853459,11.5718813 6.43295826,11.633125 6.56738193,11.633125 C6.7018056,11.633125 6.83658987,11.5718813 6.93916054,11.4492983 C6.93948107,11.448772 6.93972147,11.4482457 6.94024234,11.4476237 L11.4424937,6.07119588 C11.6478354,5.82622124 11.6478354,5.4288073 11.4424937,5.18383266 C11.2372723,4.93871447 10.9045186,4.93871447 10.6994975,5.1838805 Z" id="Path" fill="#7685B6"></path>
+                <polyline id="Path-4" stroke="#7685B6" stroke-width="1.3" fill-rule="nonzero" points="0.932443311 18.196834 17.6947168 18.196834 17.6947168 4.38689753"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
