@@ -1,8 +1,7 @@
 import React from 'react';
 
-import Dashboard from './dashboard/Dashboard';
 import Header from './header/Header'
-import Sidebar from './sidebar/Sidebar'
+import Body from './body/Body'
 
 import './App.css';
 
@@ -10,8 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <Sidebar/>
-      <Dashboard/>
+      <Body/>
     </div>
   );
 }
